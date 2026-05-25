@@ -1,5 +1,3 @@
-// Source - https://stackoverflow.com/a/75904914
-// Posted by JoyShaheb
-// Retrieved 2026-05-25, License - CC BY-SA 4.0
-
-{ "rewrites": [{ "source": "/(.*)", "destination": "/" }] }
+{
+    "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+}
