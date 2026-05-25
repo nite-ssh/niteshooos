@@ -1,0 +1,6 @@
+{
+  "name": "Life Operating System",
+  "description": "A hierarchical life-management operating system containing Portfolios, Programs, Projects, and Tasks, with dashboards, weekly reviews, and focus mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
